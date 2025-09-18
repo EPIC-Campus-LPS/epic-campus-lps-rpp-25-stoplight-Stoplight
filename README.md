@@ -9,7 +9,7 @@
 
 - Raspberry Pi
 - Breadboard and T-Cobbler
-- 130 $\Omega$ resistor or greater
+- 3 130 $\Omega$ resistor or greater
 - 3 LED lights (red, green, and yellow) 
 - Male-to-Male Jumper 
 - A digital push button or capacitive touch sensor
